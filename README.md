@@ -177,14 +177,11 @@ transmission-line-fault-classification-using-machine-learning/
 │   └── Transmission_Line_Fault_Classification.pptx
 │
 ├── references/
-│   ├── reference_1.pdf
-│   ├── reference_2.pdf
-│   └── bibliography.md
 │
 ├── results/
-│   ├── confusion_matrices/
-│   ├── accuracy_comparison.png
-│   └── model_performance_summary.csv
+│   ├── eda/
+│   ├── evaluation_metrics/
+│   └── confusion_matrix/ 
 │
 └── dataset/
     └── dataset_source.txt
