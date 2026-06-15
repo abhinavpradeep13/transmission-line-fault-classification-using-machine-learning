@@ -181,8 +181,9 @@ transmission-line-fault-classification-using-machine-learning/
 ├── results/
 │   ├── eda/
 │   ├── evaluation_metrics/
-│   └── confusion_matrix/ 
-│
+│   ├── confusion_matrix/ 
+│   └── model_comparison.png
+|
 └── dataset/
     └── dataset_source.txt
 ```
